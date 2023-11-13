@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\211 Csharp\Lab6Serialization\bin\Debug\net6.0\Lab6Serialization.exe
+\\Mac\Home\Desktop\211 Csharp\Lab6Serialization\bin\Debug\net6.0\Lab6Serialization.deps.json
+\\Mac\Home\Desktop\211 Csharp\Lab6Serialization\bin\Debug\net6.0\Lab6Serialization.runtimeconfig.json
+\\Mac\Home\Desktop\211 Csharp\Lab6Serialization\bin\Debug\net6.0\Lab6Serialization.dll
+\\Mac\Home\Desktop\211 Csharp\Lab6Serialization\bin\Debug\net6.0\Lab6Serialization.pdb
+\\Mac\Home\Desktop\211 Csharp\Lab6Serialization\obj\Debug\net6.0\Lab6Serialization.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\211 Csharp\Lab6Serialization\obj\Debug\net6.0\Lab6Serialization.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\211 Csharp\Lab6Serialization\obj\Debug\net6.0\Lab6Serialization.AssemblyInfo.cs
+\\Mac\Home\Desktop\211 Csharp\Lab6Serialization\obj\Debug\net6.0\Lab6Serialization.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\211 Csharp\Lab6Serialization\obj\Debug\net6.0\Lab6Serialization.dll
+\\Mac\Home\Desktop\211 Csharp\Lab6Serialization\obj\Debug\net6.0\refint\Lab6Serialization.dll
+\\Mac\Home\Desktop\211 Csharp\Lab6Serialization\obj\Debug\net6.0\Lab6Serialization.pdb
+\\Mac\Home\Desktop\211 Csharp\Lab6Serialization\obj\Debug\net6.0\Lab6Serialization.genruntimeconfig.cache
+\\Mac\Home\Desktop\211 Csharp\Lab6Serialization\obj\Debug\net6.0\ref\Lab6Serialization.dll
